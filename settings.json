@@ -12,5 +12,18 @@
     "editor.overtypeCursorStyle": "line",
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.cursorBlinking": "smooth",
-    "terminal.integrated.cursorStyle": "line"
+    "terminal.integrated.cursorStyle": "line",
+    "window.menuBarVisibility": "compact",
+    "workbench.layoutControl.enabled": false,
+    "chat.commandCenter.enabled": false,
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.editor.enablePreview": false,
+    "workbench.list.smoothScrolling": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "chat.mcp.gallery.enabled": true,
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "workbench.productIconTheme": "macos-modern",
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "chat.showAgentSessionsViewDescription": false
 }
