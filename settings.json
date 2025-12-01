@@ -10,8 +10,8 @@
     "editor.minimap.enabled": false,
     "security.workspace.trust.untrustedFiles": "open",
     "editor.overtypeCursorStyle": "line",
-    "editor.cursorSmoothCaretAnimation": "explicit",
-    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "expand",
     "terminal.integrated.cursorStyle": "line",
     "window.menuBarVisibility": "compact",
     "workbench.layoutControl.enabled": false,
@@ -33,5 +33,8 @@
     "terminal.integrated.fontFamily": "Hack Nerd Font",
     "explorer.confirmDelete": false,
     "breadcrumbs.enabled": false,
-    "terminal.integrated.cursorBlinking": true
+    "terminal.integrated.cursorBlinking": true,
+    "workbench.editor.empty.hint": "hidden",
+    "window.confirmSaveUntitledWorkspace": false,
+    "terminal.integrated.cursorStyleInactive": "line"
 }
